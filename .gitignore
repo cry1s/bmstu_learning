@@ -2,3 +2,8 @@ lab2/.venv/
 lab2/lab_python_oop/__pycache__/
 lab2/__pycache__/
 lab2/.vscode/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc

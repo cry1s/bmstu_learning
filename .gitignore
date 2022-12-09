@@ -7,3 +7,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.pyc
+# rust
+target/
+Cargo.lock
+# C extensions
+*.so
